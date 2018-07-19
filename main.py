@@ -1,5 +1,6 @@
-from aip import AipSpeech
 import os
+
+from aip import AipSpeech
 
 # AppID, API KEY, Secret Key
 APP_ID = "11526272"
